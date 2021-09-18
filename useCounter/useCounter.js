@@ -6,3 +6,4 @@ const useCounter= (initialState=0)=>{
     return {count,increment,decrement};
 };
 export default useCounter;
+
